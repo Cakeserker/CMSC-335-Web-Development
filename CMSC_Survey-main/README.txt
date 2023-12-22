@@ -1,7 +1,7 @@
 CMSC 335 Final Exam Project (FALL 2023)
 
 Team Members: 
-Naa'Oli Mamie (116511476), Han Qiu (117147476), Chamarr Auber (117146509)
+Naa'Oli Mamie, Han Qiu, Chamarr Auber
 
 App Description: 
 This app is a survey-form directed to students, asking questions related to the upper CMSC courses electives.
